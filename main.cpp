@@ -2,6 +2,7 @@
 #include <SFML\audio.hpp>
 
 #include "AnimatedSprite.h"
+// https://github.com/LaurentGomila/SFML/wiki/Source%3A-AnimatedSprite
 #include "Invaders.h"
 #include "Player.h"
 #include "Bullets.h"
